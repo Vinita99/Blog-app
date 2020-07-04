@@ -13,6 +13,8 @@ Features of this app-
 
 4.Comment on post
 
+![](5.jpg)
+![](6.jpg)
 ![](1.jpg)
 ![](2.jpg)
 ![](3.jpg)
